@@ -1,11 +1,12 @@
 package org.example
 
 
+/*
 fun isValidIPv4(address: String?): Boolean {
     return true
 }
+*/
 
-/*
 
 fun isValidIPv4(address: String?): Boolean {
     if (address == null) return false
@@ -22,4 +23,3 @@ fun isValidIPv4(address: String?): Boolean {
 
     return true
 }
-*/
