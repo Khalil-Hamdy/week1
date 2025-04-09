@@ -1,6 +1,6 @@
 package org.example
 
-fun runCheckIpv4() {
+fun runCheckIpv41() {
 
     check(
         "IP with 3 segments should return false",
